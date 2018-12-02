@@ -1,4 +1,4 @@
-###Description of submodules:
+### Description of submodules:
 
 * kamina-script:
 	* stackless - Stackless Python 2.7-slp
@@ -38,7 +38,7 @@
 	be implemented with a Smalltalk object structure, app layouts
 	defined by a markup such as YAML, JSON, or TOML.
 ---	
-###So, what is this repo?
+### So, what is this repo?
 	
 	The basic kamina repo ties all of these modules together to 
 	implement what you would consider akin to a web browser. You choose

@@ -1,0 +1,12 @@
+[submodule "kamina-script"]
+	path = kamina-script
+	url = https://github.com/grubermeister/kamina-script.git
+[submodule "kamina-hmdp"]
+	path = kamina-hmdp
+	url = https://github.com/grubermeister/kamina-hmdp.git
+[submodule "kamina-pkg"]
+	path = kamina-pkg
+	url = https://github.com/grubermeister/kamina-pkg.git
+[submodule "kamina-gui"]
+	path = kamina-gui
+	url = https://github.com/grubermeister/kamina-gui.git
